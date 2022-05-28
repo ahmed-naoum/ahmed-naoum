@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**0x00000000000000000/0x00000000000000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ahmed-naoum/ahmed-naoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
